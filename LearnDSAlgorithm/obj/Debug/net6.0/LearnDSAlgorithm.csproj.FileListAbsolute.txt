@@ -1,0 +1,15 @@
+D:\Project\Asp Core\LearnDSAlgorithm\LearnDSAlgorithm\bin\Debug\net6.0\LearnDSAlgorithm.exe
+D:\Project\Asp Core\LearnDSAlgorithm\LearnDSAlgorithm\bin\Debug\net6.0\LearnDSAlgorithm.deps.json
+D:\Project\Asp Core\LearnDSAlgorithm\LearnDSAlgorithm\bin\Debug\net6.0\LearnDSAlgorithm.runtimeconfig.json
+D:\Project\Asp Core\LearnDSAlgorithm\LearnDSAlgorithm\bin\Debug\net6.0\LearnDSAlgorithm.dll
+D:\Project\Asp Core\LearnDSAlgorithm\LearnDSAlgorithm\bin\Debug\net6.0\LearnDSAlgorithm.pdb
+D:\Project\Asp Core\LearnDSAlgorithm\LearnDSAlgorithm\obj\Debug\net6.0\LearnDSAlgorithm.csproj.AssemblyReference.cache
+D:\Project\Asp Core\LearnDSAlgorithm\LearnDSAlgorithm\obj\Debug\net6.0\LearnDSAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Asp Core\LearnDSAlgorithm\LearnDSAlgorithm\obj\Debug\net6.0\LearnDSAlgorithm.AssemblyInfoInputs.cache
+D:\Project\Asp Core\LearnDSAlgorithm\LearnDSAlgorithm\obj\Debug\net6.0\LearnDSAlgorithm.AssemblyInfo.cs
+D:\Project\Asp Core\LearnDSAlgorithm\LearnDSAlgorithm\obj\Debug\net6.0\LearnDSAlgorithm.csproj.CoreCompileInputs.cache
+D:\Project\Asp Core\LearnDSAlgorithm\LearnDSAlgorithm\obj\Debug\net6.0\LearnDSAlgorithm.dll
+D:\Project\Asp Core\LearnDSAlgorithm\LearnDSAlgorithm\obj\Debug\net6.0\refint\LearnDSAlgorithm.dll
+D:\Project\Asp Core\LearnDSAlgorithm\LearnDSAlgorithm\obj\Debug\net6.0\LearnDSAlgorithm.pdb
+D:\Project\Asp Core\LearnDSAlgorithm\LearnDSAlgorithm\obj\Debug\net6.0\LearnDSAlgorithm.genruntimeconfig.cache
+D:\Project\Asp Core\LearnDSAlgorithm\LearnDSAlgorithm\obj\Debug\net6.0\ref\LearnDSAlgorithm.dll

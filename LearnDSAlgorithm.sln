@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnDSAlgorithm", "LearnDSAlgorithm\LearnDSAlgorithm.csproj", "{DBCD09F0-1A59-4F0D-83B9-D6E0EC4B96C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBCD09F0-1A59-4F0D-83B9-D6E0EC4B96C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBCD09F0-1A59-4F0D-83B9-D6E0EC4B96C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBCD09F0-1A59-4F0D-83B9-D6E0EC4B96C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBCD09F0-1A59-4F0D-83B9-D6E0EC4B96C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AA66168-9F18-4FB4-8B23-75B9397E8688}
+	EndGlobalSection
+EndGlobal
